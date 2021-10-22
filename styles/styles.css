@@ -128,7 +128,7 @@ body {
 }
 .progress {
   position: relative;
-  width: 80%;
+  width: 70%;
   height: 17px;
   border-radius: 8px;
   background-image: linear-gradient(
